@@ -1,30 +1,5 @@
 # Practica2025
-<h1>Instituto Superior de Comercio Francisco Araya Bennett</h1>
-<h2>¿Quiénes somos?</h2>
-    <p>
-        El Instituto Superior de Comercio Francisco Araya Bennett es un liceo técnico profesional ubicado en Valparaíso.
-        Ofrece formación en áreas como administración, contabilidad y programación, preparando a los estudiantes para el mundo laboral y estudios superiores.
-    </p>
-
-<h2>Ubicación</h2>
-    <p>Estamos ubicados en Valparaíso, Chile, en el sector de Playa Ancha.</p>
-
-<h2>Especialidades</h2>
-    <ul>
-        <li>Programación</li>
-        <li>Contabilidad</li>
-        <li>Administración</li>
-    </ul>
-
-<h2>Actividades destacadas</h2>
-    <ol>
-        <li>Feria de Emprendimiento</li>
-        <li>Participación en Olimpiadas de Programación</li>
-        <li>Eventos de Robótica Educativa</li>
-    </ol>
-
-<h2>Contacto</h2>
-    <p>
-        Correo institucional: contacto@isca.cl <br>
-        Teléfono: +56 32 123 4567
-    </p>
+<p>Soy egresada de la especialidad de Programación del Instituto Superior de Comercio <strong>"Francisco Araya Bennett"</strong>, con conocimientos en desarrollo web, lógica de programación, bases de datos y robótica.</p> <p>Me destaco por mi creatividad, responsabilidad y compromiso con los proyectos que realizo, tanto individuales como en equipo.</p> <p>Actualmente desarrollo un emprendimiento de impresión 3D con enfoque ecológico, reutilizando botellas plásticas para crear filamentos, demostrando mi interés por la innovación sostenible.</p> </div> </div> <div class="section"> <h3>
+    🔧 Habilidades Técnicas</h3> <ul> <li>HTML, CSS, JavaScript básico</li> <li>Python, PSeInt, Pascal</li> <li>Java (nivel intermedio en formación)</li> <li>MySQL y diseño de bases de datos</li> <li>Visual Studio Code y entornos de desarrollo educativo</li> </ul> </div> <div class="section"> <h3>
+    🎯 Intereses</h3> <ul> <li>Robótica</li> <li>Desarrollo web</li> <li>Diseño de interfaces y proyectos creativos</li> </ul> </div> <div class="section"> <h3>
+    🔖 Certificaciones</h3> <ul> <li>Curso de programación con PSeInt – Cisco Networking Academy</li> <li>Curso de Robótica con robots EV3 – Universidad Católica de Valparaíso</li> <li>Curso de Programación en Java – Duoc UC, Valparaíso</li> </ul> </div> </div>
