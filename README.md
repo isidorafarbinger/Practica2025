@@ -4,5 +4,5 @@
      Habilidades Técnicas</h3> <ul> <li>HTML, CSS, JavaScript básico</li> <li>Python, PSeInt, Pascal</li> <li>Java (nivel intermedio en formación)</li> <li>MySQL y diseño de bases de datos</li> <li>Visual Studio Code y entornos de desarrollo educativo</li> </ul> </div> <div class="section"> <h3>
      Intereses</h3> <ul> <li>Robótica</li> <li>Desarrollo web</li> <li>Diseño de interfaces y proyectos creativos</li> </ul> </div> <div class="section"> <h3>
      Certificaciones</h3> <ul> <li>Curso de programación con PSeInt – Cisco Networking Academy</li> <li>Curso de Robótica con robots EV3 – Universidad Católica de Valparaíso</li> <li>Curso de Programación en Java – Duoc UC, Valparaíso</li> </ul> </div> </div>
- <img src="Ram.png">
+ <img src=""C:\Users\Alumno\Desktop\Ram.png"">
  
